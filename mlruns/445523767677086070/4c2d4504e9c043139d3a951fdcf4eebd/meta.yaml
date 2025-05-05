@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/445523767677086070/4c2d4504e9c043139d3a951fdcf4eebd/artifacts
+end_time: 1746405252632
+entry_point_name: ''
+experiment_id: '445523767677086070'
+lifecycle_stage: active
+run_id: 4c2d4504e9c043139d3a951fdcf4eebd
+run_name: worried-ape-745
+run_uuid: 4c2d4504e9c043139d3a951fdcf4eebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746405252491
+status: 3
+tags: []
+user_id: sivan
