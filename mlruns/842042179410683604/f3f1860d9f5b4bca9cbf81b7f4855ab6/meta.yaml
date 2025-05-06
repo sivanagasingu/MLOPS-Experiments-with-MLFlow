@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/f3f1860d9f5b4bca9cbf81b7f4855ab6/artifacts
+end_time: 1746483519225
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: f3f1860d9f5b4bca9cbf81b7f4855ab6
+run_name: flawless-rat-671
+run_uuid: f3f1860d9f5b4bca9cbf81b7f4855ab6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483507267
+status: 3
+tags: []
+user_id: sivan

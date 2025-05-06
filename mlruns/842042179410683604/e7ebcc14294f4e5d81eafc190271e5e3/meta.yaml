@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/e7ebcc14294f4e5d81eafc190271e5e3/artifacts
+end_time: 1746483513123
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: e7ebcc14294f4e5d81eafc190271e5e3
+run_name: fearless-boar-242
+run_uuid: e7ebcc14294f4e5d81eafc190271e5e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483513057
+status: 3
+tags: []
+user_id: sivan

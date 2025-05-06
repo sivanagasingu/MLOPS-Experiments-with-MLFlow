@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746490096507
+current_stage: Production
+description: ''
+last_updated_timestamp: 1746490301914
+name: SivaS_Model_Ver_1.0
+run_id: f3f1860d9f5b4bca9cbf81b7f4855ab6
+run_link: ''
+source: models:/SivaS_Model_Ver_1.0/1
+status: READY
+status_message: null
+storage_location: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/f3f1860d9f5b4bca9cbf81b7f4855ab6/artifacts/random_forest
+user_id: null
+version: 2

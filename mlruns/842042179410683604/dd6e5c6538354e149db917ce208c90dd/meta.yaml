@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/dd6e5c6538354e149db917ce208c90dd/artifacts
+end_time: 1746483512926
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: dd6e5c6538354e149db917ce208c90dd
+run_name: blushing-squid-653
+run_uuid: dd6e5c6538354e149db917ce208c90dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483512871
+status: 3
+tags: []
+user_id: sivan

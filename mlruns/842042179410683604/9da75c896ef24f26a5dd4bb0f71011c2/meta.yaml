@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/9da75c896ef24f26a5dd4bb0f71011c2/artifacts
+end_time: 1746483513500
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: 9da75c896ef24f26a5dd4bb0f71011c2
+run_name: orderly-turtle-639
+run_uuid: 9da75c896ef24f26a5dd4bb0f71011c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483513437
+status: 3
+tags: []
+user_id: sivan

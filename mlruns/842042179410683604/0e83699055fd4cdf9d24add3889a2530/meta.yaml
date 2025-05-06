@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/0e83699055fd4cdf9d24add3889a2530/artifacts
+end_time: 1746483513050
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: 0e83699055fd4cdf9d24add3889a2530
+run_name: redolent-pug-620
+run_uuid: 0e83699055fd4cdf9d24add3889a2530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483512992
+status: 3
+tags: []
+user_id: sivan

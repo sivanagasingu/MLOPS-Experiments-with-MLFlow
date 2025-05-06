@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/909b39a36a5e495399e66130d8e3f047/artifacts
+end_time: 1746483513651
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: 909b39a36a5e495399e66130d8e3f047
+run_name: colorful-smelt-135
+run_uuid: 909b39a36a5e495399e66130d8e3f047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483513576
+status: 3
+tags: []
+user_id: sivan

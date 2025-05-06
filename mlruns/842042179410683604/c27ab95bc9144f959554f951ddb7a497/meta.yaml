@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/c27ab95bc9144f959554f951ddb7a497/artifacts
+end_time: 1746483512986
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: c27ab95bc9144f959554f951ddb7a497
+run_name: debonair-swan-189
+run_uuid: c27ab95bc9144f959554f951ddb7a497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483512931
+status: 3
+tags: []
+user_id: sivan

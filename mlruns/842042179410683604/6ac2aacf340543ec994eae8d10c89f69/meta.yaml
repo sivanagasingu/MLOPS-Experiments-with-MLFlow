@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/6ac2aacf340543ec994eae8d10c89f69/artifacts
+end_time: 1746483512865
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: 6ac2aacf340543ec994eae8d10c89f69
+run_name: invincible-ant-838
+run_uuid: 6ac2aacf340543ec994eae8d10c89f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483512785
+status: 3
+tags: []
+user_id: sivan

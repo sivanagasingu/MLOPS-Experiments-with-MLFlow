@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/1e4b55b465694301a24d0abcc1ef8fd5/artifacts
+end_time: 1746483513570
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: 1e4b55b465694301a24d0abcc1ef8fd5
+run_name: useful-shrew-266
+run_uuid: 1e4b55b465694301a24d0abcc1ef8fd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483513506
+status: 3
+tags: []
+user_id: sivan

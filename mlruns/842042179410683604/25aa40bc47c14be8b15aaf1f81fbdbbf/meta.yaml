@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Ops/MLOPS-Experiments-with-MLFlow/mlruns/842042179410683604/25aa40bc47c14be8b15aaf1f81fbdbbf/artifacts
+end_time: 1746483513347
+entry_point_name: ''
+experiment_id: '842042179410683604'
+lifecycle_stage: active
+run_id: 25aa40bc47c14be8b15aaf1f81fbdbbf
+run_name: adorable-calf-841
+run_uuid: 25aa40bc47c14be8b15aaf1f81fbdbbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746483513277
+status: 3
+tags: []
+user_id: sivan
